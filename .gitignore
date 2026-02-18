@@ -1,0 +1,11 @@
+# Ignore sensitive files
+passwords.txt
+secrets.txt
+*.key
+
+# Ignore large log files
+*.log
+*.nmap
+
+# Ignore system junk
+.DS_Store
